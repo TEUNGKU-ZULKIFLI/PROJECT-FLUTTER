@@ -177,6 +177,8 @@
 
 <div align="center">
   <img src="asset/img/012.1.png" width="200px"/>
+  <img src="asset/img/012.2.png" width="200px"/>
+  <img src="asset/img/012.3.png" width="200px"/>
 </div>
 
 <div align="center">
@@ -216,6 +218,14 @@
 
 <div align="center">
   <img src="asset/img/015.1.png" width="200px"/>
+  <img src="asset/img/015.2.png" width="200px"/>
+  <img src="asset/img/015.3.png" width="200px"/>
+  <img src="asset/img/015.4.png" width="200px"/>
+  <img src="asset/img/015.5.png" width="200px"/>
+  <img src="asset/img/015.6.png" width="200px"/>
+  <img src="asset/img/015.7.png" width="200px"/>
+  <img src="asset/img/015.8.png" width="200px"/>
+  <img src="asset/img/015.9.png" width="200px"/>
 </div>
 
 <div align="center">
@@ -229,6 +239,11 @@
 
 <div align="center">
   <img src="asset/img/016.1.png" width="200px"/>
+  <img src="asset/img/016.2.png" width="200px"/>
+  <img src="asset/img/016.3.png" width="200px"/>
+  <img src="asset/img/016.4.png" width="200px"/>
+  <img src="asset/img/016.5.png" width="200px"/>
+  <img src="asset/img/016.6.png" width="200px"/>
 </div>
 
 <div align="center">
@@ -242,6 +257,8 @@
 
 <div align="center">
   <img src="asset/img/017.1.png" width="200px"/>
+  <img src="asset/img/017.2.png" width="200px"/>
+  <img src="asset/img/017.3.png" width="200px"/>
 </div>
 
 <div align="center">
