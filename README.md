@@ -264,3 +264,33 @@
 <div align="center">
   <a href="https://github.com/TEUNGKU-ZULKIFLI/17.rest_api"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">REPO PROJECT 17</button></a>
 </div>
+
+---
+
+# Project 18: APP APOTEK
+**Sedikit deskripsi:** Memudahkan kamu seorang doctor, suster, perawat, atau bahkan pasien sekalipun. Gak-gak yang terakhir bercanda 🤣. Dalam memanajemen Data entah itu data obat, data staf di APOTEK🏥 tersebut, bahkan data pasien, bukan mayat ya PASIEN 🤣🤣 tapi kalau calon mayat ya masuk sih.
+
+<div align="center">
+    <img src="asset/img/018.1.png" width="200px"/>
+    <img src="asset/img/018.2.png" width="200px"/>
+    <img src="asset/img/018.3.png" width="200px"/>
+    <img src="asset/img/018.4.png" width="200px"/>
+    <img src="asset/img/018.5.png" width="200px"/>
+    <img src="asset/img/018.6.png" width="200px"/>
+    <img src="asset/img/018.7.png" width="200px"/>
+    <img src="asset/img/018.8.png" width="200px"/>
+    <img src="asset/img/018.9.png" width="200px"/>
+    <img src="asset/img/018.10.png" width="200px"/>
+    <img src="asset/img/018.11.png" width="200px"/>
+    <img src="asset/img/018.12.png" width="200px"/>
+    <img src="asset/img/018.13.png" width="200px"/>
+    <img src="asset/img/018.14.png" width="200px"/>
+    <img src="asset/img/018.15.png" width="200px"/>
+    <img src="asset/img/018.16.png" width="200px"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/TEUNGKU-ZULKIFLI/18.uts_app_apotek"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">REPO PROJECT 18</button></a>
+</div>
+
+---
