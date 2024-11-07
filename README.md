@@ -289,6 +289,24 @@
     <img src="asset/img/018.16.png" width="200px"/>
 </div>
 
+---
+
+**Ini ialah versi penambahan fitur:** Ini memungkinkan kamu menambahkan perusahaan mana sih yang mau menyetok obat/memasok obat, serta memungkinkan kamu untuk memonitoringnya data masuk dan data keluar, ya iyalah masak uang masuk aja kamu datain 🤣. serta menambahkan fitur pencarian, untuk menyelesaikan masalah, itu obat sakit perut masih berapa stok lagi dah 🤔. nah begitu lah kira" penambahan fiturnya ada 3.
+
+<div align="center">
+    <img src="asset/img/018.17.png" width="200px"/>
+    <img src="asset/img/018.18.png" width="200px"/>
+    <img src="asset/img/018.19.png" width="200px"/>
+    <img src="asset/img/018.20.png" width="200px"/>
+    <img src="asset/img/018.21.png" width="200px"/>
+    <img src="asset/img/018.22.png" width="200px"/>
+    <img src="asset/img/018.23.png" width="200px"/>
+    <img src="asset/img/018.24.png" width="200px"/>
+    <img src="asset/img/018.25.png" width="200px"/>
+    <img src="asset/img/018.26.png" width="200px"/>
+    <img src="asset/img/018.27.png" width="200px"/>
+</div>
+
 <div align="center">
   <a href="https://github.com/TEUNGKU-ZULKIFLI/18.uts_app_apotek"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">REPO PROJECT 18</button></a>
 </div>
