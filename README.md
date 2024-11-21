@@ -307,6 +307,16 @@
     <img src="asset/img/018.27.png" width="200px"/>
 </div>
 
+---
+
+**Pembaruan fitur View Stock Obat:** Ini adalah Pembaruan di fitur View Stock Obat supaya mudah dilihat dan dikhususkan ke si staff apotek yang mau melihat stock obat diRak dan stock mana aja yang belum masuk, entah obat itu mungkin udah di sakunya staf 🤣.
+
+<div align="center">
+    <img src="asset/img/018.28.png" width="200px"/>
+    <img src="asset/img/018.29.png" width="200px"/>
+    <img src="asset/img/018.30.png" width="200px"/>
+</div>
+
 <div align="center">
   <a href="https://github.com/TEUNGKU-ZULKIFLI/18.uts_app_apotek"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">REPO PROJECT 18</button></a>
 </div>
