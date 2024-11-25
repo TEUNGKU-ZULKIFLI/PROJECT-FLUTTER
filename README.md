@@ -267,6 +267,22 @@
 
 ---
 
+# Project 17.V2: REST API V.2
+**Sedikit deskripsi:** Implementasi REST API di Flutter untuk menghubungkan aplikasi dengan server backend. Ini Version ke dua [REST API V.2].
+
+<div align="center">
+  <img src="asset/img/017.V2.1.png" width="200px"/>
+  <img src="asset/img/017.V2.2.png" width="200px"/>
+  <img src="asset/img/017.V2.3.png" width="200px"/>
+  <img src="asset/img/017.V2.4.png" width="200px"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/TEUNGKU-ZULKIFLI/17.rest_api"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">REPO PROJECT 17.V2</button></a>
+</div>
+
+---
+
 # Project 18: APP APOTEK
 **Sedikit deskripsi:** Memudahkan kamu seorang doctor, suster, perawat, atau bahkan pasien sekalipun. Gak-gak yang terakhir bercanda 🤣. Dalam memanajemen Data entah itu data obat, data staf di APOTEK🏥 tersebut, bahkan data pasien, bukan mayat ya PASIEN 🤣🤣 tapi kalau calon mayat ya masuk sih.
 
