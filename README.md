@@ -338,3 +338,68 @@
 </div>
 
 ---
+
+# Project 19: APP CRUD Mahasiswa Flutter 🫱🏻‍🫲🏻 Firebase  
+**Sedikit Deskripsi:**  
+Aplikasi Flutter yang terhubung dengan Firebase untuk mengelola data mahasiswa. Fitur utama mencakup CRUD (Create, Read, Update, Delete) untuk data mahasiswa seperti nama, NIM, Jurusan, dan Program Studi.
+
+---  
+
+**Fitur Utama:**  
+- **Manajemen Data Mahasiswa:**  
+  - Tambah data mahasiswa seperti nama lengkap, NIM, Jurusan, dan Program Studi.  
+  - Lihat daftar mahasiswa dalam tampilan daftar yang rapi dan responsif.  
+  - Edit dan hapus data mahasiswa dengan mudah.  
+
+- **Firebase Integration:**  
+  - Menggunakan Firebase Firestore untuk penyimpanan data secara real-time.  
+  - Memanfaatkan Firebase Authentication untuk otentikasi pengguna jika diperlukan.  
+
+- **Desain yang Dinamis:**  
+  - UI modern dengan navigasi yang sederhana untuk memudahkan penggunaan aplikasi.  
+
+---  
+
+**Teknologi yang Digunakan:**  
+- **Flutter:** Framework untuk aplikasi lintas platform (Android/iOS).  
+- **Firebase Firestore:** Backend berbasis cloud untuk pengelolaan data mahasiswa.  
+- **Provider:** Manajemen state untuk alur data yang efisien.  
+- **Dart:** Bahasa pemrograman utama yang mendukung performa tinggi.  
+
+Project 19 ini adalah solusi sederhana namun efektif untuk manajemen data mahasiswa berbasis aplikasi. **APP CRUD Mahasiswa Flutter 🫱🏻‍🫲🏻 Firebase** menjadi pilihan tepat bagi developer yang ingin mendalami integrasi Flutter dan Firebase! 🚀
+
+<div align="center">  
+  <a href="https://github.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/blob/master/001.1.CRUID_MAHASISWA_FLUTTERFIRE.md"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">TAKE A CLOSER LOOK AT PROJECT 19</button></a>  
+</div>  
+
+---
+
+# Project 20: Poliklinik Management System  
+**Sedikit Deskripsi:**  
+Aplikasi Flutter berbasis Firebase untuk mengelola data pasien dan pemeriksaan di sebuah poliklinik. Aplikasi ini mencakup fitur CRUD untuk pasien, hasil pemeriksaan, serta laporan yang terintegrasi dengan Firebase Firestore.  
+
+---
+
+**Fitur Utama:**  
+- **Manajemen Data Pasien:**  
+  Tambah, ubah, dan hapus data pasien, termasuk nama, alamat, dan nomor telepon.  
+- **Pemeriksaan Medis:**  
+  Rekam data pemeriksaan pasien seperti suhu tubuh, tekanan darah, diagnosa, dan pengobatan.  
+- **Laporan Terintegrasi:**  
+  Menampilkan laporan pasien dan pemeriksaan secara real-time menggunakan Firebase Firestore.  
+- **UI/UX Modern:**  
+  Desain responsif dengan pengalaman pengguna yang sederhana namun efektif.  
+
+---  
+
+**Teknologi yang Digunakan:**  
+- **Flutter:** Framework frontend untuk membangun aplikasi Android/iOS.  
+- **Firebase Firestore:** Backend sebagai layanan untuk menyimpan dan mengelola data.  
+- **Provider:** State management untuk manajemen data yang efisien.  
+- **Dart:** Bahasa pemrograman utama untuk aplikasi ini.  
+
+<div align="center">  
+  <a href="https://github.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/blob/master/002.1.APP_APOTEK_FLUTTERFIRE.md"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">TAKE A CLOSER LOOK AT PROJECT 20</button></a>  
+</div>
+
+---
